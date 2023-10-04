@@ -1,0 +1,3 @@
+source;share/functorch/hook/pythonpath.ps1
+source;share/functorch/hook/pythonpath.dsv
+source;share/functorch/hook/pythonpath.sh
