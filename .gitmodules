@@ -1,0 +1,6 @@
+[submodule "src/ros2_v4l2_camera"]
+	path = src/ros2_v4l2_camera
+	url = git@github.com:takanezawa0829/ros2_v4l2_camera.git
+[submodule "src/mmaction2_ros2/mmaction2"]
+	path = src/mmaction2_ros2/mmaction2
+	url = git@github.com:takanezawa0829/mmaction2.git
