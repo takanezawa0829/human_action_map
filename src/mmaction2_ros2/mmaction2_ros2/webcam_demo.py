@@ -17,8 +17,10 @@ from mmaction.utils import get_str_type
 
 FONTFACE = cv2.FONT_HERSHEY_COMPLEX_SMALL
 FONTSCALE = 1
-FONTCOLOR = (255, 255, 255)  # BGR、白
-MSGCOLOR = (128, 128, 128)  # BGR、グレー
+# FONTCOLOR = (255, 255, 255)  # BGR、白
+FONTCOLOR = (0, 0, 0)  # BGR、黒
+# MSGCOLOR = (128, 128, 128)  # BGR、グレー
+MSGCOLOR = (0, 0, 0)  # BGR、黒
 THICKNESS = 1
 LINETYPE = 1
 EXCLUED_STEPS = [
